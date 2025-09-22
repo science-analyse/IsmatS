@@ -35,100 +35,95 @@ This comprehensive analysis reveals deep psychological and performance patterns 
 ## Visual Analysis Dashboard
 
 ### Your Overall Performance Profile
-![Performance Evolution](assets/combined_01_performance_evolution.png)
+![Complete Performance Evolution](assets/combined_01_complete_performance_evolution.png)
 *Your complete chess performance evolution over 10,961 games*
 
 **Key Insight:** Your 100-game rolling average shows steady improvement with occasional peaks above 60% win rate. The vertical line shows your account usage pattern - you can see how different accounts serve different purposes in your chess journey.
 
-![Results Distribution](assets/combined_03_results_distribution.png)
+![Overall Results Distribution](assets/combined_02_overall_results_distribution.png)
 *Your overall game outcome patterns across all 10,961 games*
 
 **Key Insight:** You win 49.4% of your games with only 6.3% draws, showing an aggressive, decisive playing style. You push for results rather than settling for safe positions - a true competitor's mindset.
 
 ### Your Chess Skill Development Journey
-![Combined Rating Journey](assets/combined_07_rating_journey.png)
+![Rating Journey Both Modes](assets/combined_03_rating_journey_both_modes.png)
 *Your complete rating journey across both playing modes*
 
 **Key Insight:** You have two distinct learning approaches - "Focused Play Mode" (IsmatS) shows explosive +226 growth, while "Volume Play Mode" (Cassiny) shows steady +115 improvement. You can switch between intensive skill building and endurance training.
 
 ### Your Performance Patterns
-![Performance by Game Type](assets/combined_04_game_types.png)
+![Performance by Game Types](assets/combined_04_performance_by_game_types.png)
 *Your performance across different time controls*
 
 **Key Insight:** You're strongest in classical games (52.4% win rate) where deep thinking pays off, but also excel in rapid (51.0%). Your 8,754 blitz games show you've built excellent tactical speed. You're a complete player across all formats!
 
-![Circadian Performance](assets/combined_02_circadian_pattern.png)
+![Performance by Piece Color](assets/combined_05_performance_by_piece_color.png)
+*Your performance with white vs black pieces*
+
+**Key Insight:** You have a clear first-move advantage (+3.1% with white pieces). This suggests your opening preparation is stronger with white - focus on developing your black repertoire to balance your game.
+
+![Circadian Performance Pattern](assets/combined_06_circadian_performance_pattern.png)
 *Your biological performance rhythm throughout the day*
 
 **Key Insight:** Your circadian pattern shows dual peaks - lunch time (13:00) and evening (21:00) with your worst performance at 22:00. Your brain has two optimal windows - use them strategically!
 
-![Time Period Performance](assets/combined_08_time_periods.png)
+![Performance by Time Periods](assets/combined_07_performance_by_time_periods.png)
 *Your performance by time periods throughout the day*
 
 **Key Insight:** You peak during "Lunch Time" (54.1%) and "Night" (51.8%) periods. Avoid "Late Night" sessions (46.1%) when your performance drops significantly. Your biology dictates your chess strength!
 
-![Seasonal Performance](assets/combined_05_seasonal_patterns.png)
+![Seasonal Performance Patterns](assets/combined_08_seasonal_performance_patterns.png)
 *Your performance across different seasons*
 
 **Key Insight:** You're a "Spring Player" - your best season shows 51.1% win rate with 3,075 games. Winter is your weakest at 48.1%. Plan intensive training during spring months when you naturally perform best!
 
 ### Your Opening Repertoire Analysis
-![Top Openings](assets/combined_06_top_openings.png)
+![Top Opening Repertoire](assets/combined_09_top_opening_repertoire.png)
 *Your most frequently played openings with win rates*
 
 **Key Insight:** Your top opening is King's Pawn Game: Leonardis Variation (1,453 games, 52.0% WR) - your reliable weapon. Scandinavian Defense (615 games, 46.0% WR) needs work, while Sicilian Defense (483 games, 50.5% WR) shows balanced results. Focus on improving your Scandinavian!
 
 ### Your Game Characteristics
-![Game Length Distribution](assets/11_game_length_distribution.png)
-*Your average game length distribution*
+![Game Length Distribution](assets/combined_10_game_length_distribution.png)
+*Your game length distribution across all 10,961 games*
 
-**Key Insight:** Your games average 65.6 moves with normal distribution. You show efficient game closure - winning decisively or recognizing lost positions quickly. This reflects good practical chess judgment.
+**Key Insight:** Your games average 65.6 moves with normal distribution. You show efficient game closure - winning decisively or recognizing lost positions quickly. This reflects mature practical chess judgment.
 
-![Termination Reasons](assets/12_termination_reasons.png)
+![Game Termination Reasons](assets/combined_11_game_termination_reasons.png)
 *How your games typically end*
 
-**Key Insight:** Time management is your biggest challenge - most games end by time forfeit. Very few end in actual checkmate, showing you and opponents recognize hopeless positions early. Focus on clock management!
+**Key Insight:** Time management is your biggest challenge - most games end by time forfeit. Very few end in actual checkmate, showing you and opponents recognize hopeless positions early. Clock management is your key improvement area!
 
-![Win Rate vs Rating Difference](assets/13_winrate_vs_rating_diff.png)
+![Performance vs Opponent Strength](assets/combined_12_performance_vs_opponent_strength.png)
 *Your performance against stronger/weaker opponents*
 
-**Key Insight:** You follow rating correlation perfectly! Against stronger opponents (+50 elo), your win rate drops to ~44%. Against weaker opponents (-50 elo), you achieve ~57%. You're properly rated - no significant over/under-performance.
+**Key Insight:** You follow rating correlation perfectly! Against much stronger opponents, your win rate drops to ~35%. Against weaker opponents, you achieve ~65%. The Elo system accurately reflects your true skill level.
 
-![Monthly Activity](assets/14_monthly_activity.png)
-*Your gaming activity patterns over 5+ years*
+![Chess Activity Over Time](assets/combined_13_chess_activity_over_time.png)
+*Your chess activity evolution over 5+ years*
 
-**Key Insight:** Your activity exploded in 2024-2025, showing massive engagement growth. You've evolved from casual play to serious commitment, with recent periods showing 1000+ games per month. Your chess passion is accelerating!
+**Key Insight:** Your chess passion has exploded! Recent months (green bars) show 500-1000+ games per month, compared to <100 early on. You've transformed from casual player to chess addict - your commitment is accelerating dramatically!
 
 ---
 
 ## Advanced Analysis
 
-### Your Detailed Time & Behavioral Patterns
-![Hourly Performance Heatmap](assets/15_hourly_performance_heatmap.png)
-*Your hour-by-hour performance matrix across both accounts*
+### Your Advanced Behavioral Patterns
+![Optimal Rest Periods](assets/combined_14_optimal_rest_periods.png)
+*Your performance optimization based on rest between games*
 
-**Key Insight:** Your heatmap reveals you have TWO distinct performance personalities! Your focused mode peaks at lunch (13:00) while your volume mode peaks at night (21:00). You've unconsciously optimized different accounts for different times!
+**Key Insight:** Your optimal rest window is 1-6 hours between sessions - this is your performance sweet spot! Longer gaps (3+ days) show skill decay, while shorter gaps may cause fatigue. Plan your chess schedule accordingly!
 
 ![Weekend vs Weekday](assets/17_weekend_weekday_analysis.png)
 *Your weekend vs weekday performance and volume patterns*
 
 **Key Insight:** You show different psychological responses to weekends - more volume but slightly different performance patterns. Your brain adapts playing style based on whether you're in "work mode" vs "leisure mode".
 
-### Your Session & Learning Patterns
-![Session Performance](assets/19_session_performance.png)
-*Your session length vs performance correlation*
-
-**Key Insight:** You have dual session personalities! When focused (IsmatS style), you peak in 8-game sprints. When training volume (Cassiny style), you build momentum over 10+ game marathons. Match session length to your goals!
-
-![Time Gap Performance](assets/20_time_gap_performance.png)
-*Impact of your rest periods on subsequent performance*
-
-**Key Insight:** Your optimal rest window is 1-6 hours between sessions. Longer gaps (3+ days) show performance drops - your tactical sharpness gets rusty. Daily play with several-hour breaks is your sweet spot!
-
+### Your Learning & Improvement Patterns
 ![Monthly Trends with Confidence Intervals](assets/21_monthly_trends_ci.png)
 *Your long-term performance trends with statistical confidence*
 
-**Key Insight:** Your performance trajectory shows focused periods of rapid improvement mixed with steady grinding phases. The confidence intervals reveal you can achieve both explosive growth spurts and consistent baseline improvement.
+**Key Insight:** Your performance trajectory shows focused periods of rapid improvement mixed with steady grinding phases. The confidence intervals reveal you can achieve both explosive growth spurts and consistent baseline improvement - you have multiple pathways to chess mastery!
 
 ### Your Advanced Machine Learning Insights
 ![Game Pattern Clustering](assets/22_game_pattern_clustering.png)
