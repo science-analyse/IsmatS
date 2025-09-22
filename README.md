@@ -37,48 +37,76 @@ This comprehensive analysis reveals deep psychological and performance patterns 
 ![Win Rate Comparison](assets/01_win_rate_by_account.png)
 *Win rate comparison showing IsmatS's slight edge*
 
+**Key Insight:** IsmatS maintains a 2.4% higher win rate (51.5% vs 49.1%) despite playing significantly fewer games. This suggests more selective game choices or better preparation quality.
+
 ![Results Distribution](assets/02_results_distribution.png)
 *Comprehensive win/loss/draw breakdown by account*
+
+**Key Insight:** Both accounts show similar patterns with low draw rates, indicating aggressive playing styles that push for decisive results rather than safe draws.
 
 ### Rating Evolution
 ![IsmatS Rating Evolution](assets/03_ismats_rating_evolution.png)
 *IsmatS shows strong upward trajectory with +226 rating gain*
 
+**Key Insight:** IsmatS shows explosive growth with +226 rating points, nearly double Cassiny's gain. The steep upward trend suggests rapid skill development and effective learning from each game.
+
 ![Cassiny Rating Evolution](assets/04_cassiny_rating_evolution.png)
 *Cassiny demonstrates steady improvement with +115 rating gain*
+
+**Key Insight:** Cassiny shows consistent, steady improvement with +115 points over a much larger sample size. The gradual trend indicates sustainable long-term development through volume play.
 
 ### Performance Patterns
 ![Performance by Game Type](assets/05_performance_by_game_type.png)
 *IsmatS excels in classical, Cassiny dominates blitz*
 
+**Key Insight:** IsmatS peaks at 69.6% in classical games (slower, deeper thinking), while Cassiny excels in blitz (49.2% - fast tactical play). This reveals fundamental differences in playing strengths and preferred thinking styles.
+
 ![Performance by Color](assets/06_performance_by_color.png)
 *Both accounts show white piece advantage*
+
+**Key Insight:** Both players show first-move advantage (IsmatS: 53.4% white vs 49.5% black, Cassiny: 50.6% vs 47.5%). This 3-4% difference suggests room for improvement in black opening repertoire.
 
 ![Hourly Performance](assets/07_performance_by_hour.png)
 *Clear circadian rhythm patterns revealed*
 
+**Key Insight:** Dramatic circadian patterns emerge! IsmatS peaks at 13:00 (65.8%) but crashes at 21:00 (34.6%) - a massive 31.2% swing. Cassiny peaks at 21:00 (63.6%) with 29.2% daily variation. Biology drives performance!
+
 ![Daily Performance](assets/08_performance_by_day.png)
 *Weekend vs weekday performance differences*
+
+**Key Insight:** Psychological profiles revealed - IsmatS is a "Weekday Grinder" (better during work days), while Cassiny is a "Weekend Warrior" (performs better on weekends). This suggests different stress/relaxation performance patterns.
 
 ### Opening Analysis
 ![Top Openings](assets/09_top_openings.png)
 *Most frequently played openings across accounts*
 
+**Key Insight:** King's Pawn Game: Leonardis Variation dominates both accounts (IsmatS: 78 games, Cassiny: 1,375 games). This suggests a comfort zone opening that both players rely on heavily. Diversification opportunity exists.
+
 ![Best Openings](assets/10_best_openings.png)
 *Highest performing openings with statistical significance*
+
+**Key Insight:** Hidden gems discovered! Petrov's Defense shows 90% win rate for IsmatS (10 games), while Italian Game: Rousseau Gambit shows 87.5% for Cassiny (8 games). These are underutilized weapons with high potential.
 
 ### Game Characteristics
 ![Game Length Distribution](assets/11_game_length_distribution.png)
 *Average game length and distribution patterns*
 
+**Key Insight:** Game length averages ~65 moves with normal distribution. IsmatS averages 63.4 moves vs Cassiny's 66.4 moves, suggesting IsmatS closes games more efficiently (either wins faster or loses quicker).
+
 ![Termination Reasons](assets/12_termination_reasons.png)
 *How games typically end - checkmate, time, resignation*
+
+**Key Insight:** Time forfeit dominates game endings, revealing time management as a critical skill. Very few games end in actual checkmate, indicating players resign when positions become hopeless - good chess etiquette.
 
 ![Win Rate vs Rating Difference](assets/13_winrate_vs_rating_diff.png)
 *Performance against stronger/weaker opponents*
 
+**Key Insight:** Clear rating correlation! Against stronger opponents (+50 elo), win rates drop to ~44%. Against weaker opponents (-50 elo), win rates jump to ~57%. This validates the Elo rating system's predictive power.
+
 ![Monthly Activity](assets/14_monthly_activity.png)
 *Gaming activity patterns over 5+ years*
+
+**Key Insight:** Massive activity spikes visible in recent periods, especially 2024-2025. Cassiny shows consistent high-volume play while IsmatS has sporadic bursts, reflecting different commitment levels to chess.
 
 ---
 
