@@ -2,7 +2,7 @@
 
 Comprehensive analysis of chess performance data from combined PGN files (IsmatS and Cassiny), featuring 18 high-quality analytical charts covering 10,961 games.
 
-## =Ê Chart 1: Win Rates Overview
+## ğŸ“Š Chart 1: Win Rates Overview
 
 **Key Insights:**
 - Overall win rate distribution and player statistics comparison
@@ -23,7 +23,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## =È Chart 2: Rating Evolution
+## ğŸ“ˆ Chart 2: Rating Evolution
 
 **Key Insights:**
 - Rating progression patterns over time
@@ -44,7 +44,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## _ Chart 3: Opening Analysis
+## â™Ÿï¸ Chart 3: Opening Analysis
 
 **Key Insights:**
 - Most frequently played openings and their success rates
@@ -65,7 +65,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## ñ Chart 4: Time Control Performance
+## â±ï¸ Chart 4: Time Control Performance
 
 **Key Insights:**
 - Performance variation across different time formats
@@ -86,7 +86,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## «ª Chart 5: Color Performance
+## âš«âšª Chart 5: Color Performance
 
 **Key Insights:**
 - Win rate differences between playing White and Black
@@ -107,7 +107,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## <Á Chart 6: Termination Analysis
+## ğŸ Chart 6: Termination Analysis
 
 **Key Insights:**
 - How games typically end (checkmate, resignation, timeout, etc.)
@@ -128,7 +128,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## =P Chart 7: Time of Day Performance
+## ğŸ• Chart 7: Time of Day Performance
 
 **Key Insights:**
 - Optimal playing hours and circadian performance patterns
@@ -149,7 +149,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## =Å Chart 8: Monthly Activity and Trends
+## ğŸ“… Chart 8: Monthly Activity and Trends
 
 **Key Insights:**
 - Seasonal performance patterns and activity levels
@@ -170,7 +170,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## =ª Chart 9: Opponent Strength Analysis
+## ğŸ’ª Chart 9: Opponent Strength Analysis
 
 **Key Insights:**
 - Performance against different rating ranges
@@ -191,7 +191,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## =Ï Chart 10: Game Length Analysis
+## ğŸ“ Chart 10: Game Length Analysis
 
 **Key Insights:**
 - Optimal game length for peak performance
@@ -212,7 +212,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## =Ê Chart 11: Performance Streaks
+## ğŸ“Š Chart 11: Performance Streaks
 
 **Key Insights:**
 - Performance consistency and trend analysis over time
@@ -233,7 +233,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## =Æ Chart 12: Weekday vs Weekend Performance
+## ğŸ“† Chart 12: Weekday vs Weekend Performance
 
 **Key Insights:**
 - Work-life balance impact on chess performance
@@ -254,7 +254,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## <8 Chart 13: Seasonal Performance
+## ğŸŒ¸ Chart 13: Seasonal Performance
 
 **Key Insights:**
 - Year-round performance patterns and seasonal variations
@@ -275,7 +275,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## =% Chart 14: Opening Performance Heatmap
+## ğŸ”¥ Chart 14: Opening Performance Heatmap
 
 **Key Insights:**
 - Player-specific opening success rates visualization
@@ -296,7 +296,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## =È Chart 15: Performance Volatility
+## ğŸ“ˆ Chart 15: Performance Volatility
 
 **Key Insights:**
 - Performance consistency and stability measurement
@@ -317,7 +317,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## ğ Chart 16: Time Investment Analysis
+## â° Chart 16: Time Investment Analysis
 
 **Key Insights:**
 - Relationship between time spent and performance outcomes
@@ -338,7 +338,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## <¯ Chart 17: Comprehensive Dashboard
+## ğŸ¯ Chart 17: Comprehensive Dashboard
 
 **Key Insights:**
 - Holistic performance overview combining all major metrics
@@ -359,7 +359,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## >î Chart 18: Advanced Performance Metrics
+## ğŸ§® Chart 18: Advanced Performance Metrics
 
 **Key Insights:**
 - Sophisticated statistical analysis of performance patterns
@@ -380,7 +380,7 @@ Comprehensive analysis of chess performance data from combined PGN files (IsmatS
 
 ---
 
-## <¯ Overall Recommendations
+## ğŸ¯ Overall Recommendations
 
 Based on the comprehensive analysis of 10,961 games:
 
@@ -401,7 +401,7 @@ Based on the comprehensive analysis of 10,961 games:
 
 ---
 
-## =È Data Summary
+## ğŸ“ˆ Data Summary
 
 - **Total Games Analyzed:** 10,961
 - **Player Perspectives:** 11,029
